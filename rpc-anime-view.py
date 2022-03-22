@@ -17,5 +17,4 @@ RPC.update(
     large_text = "Episode: " + ns,
     small_text = "Play"
 )
-
 input("Press Enter to exit.")
